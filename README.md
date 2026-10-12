@@ -1,5 +1,10 @@
 # 2420030233-ASE_LabInSem
 
-## Gitflow Lab 5 - Another Develop Version
+## Gitflow Lab 5 - Conflict Resolved
 
-This is the final develop-side README change for merge-conflict practice.
+The README merge conflict was resolved on `develop` by keeping both branch contributions:
+
+- `develop`: Another Develop Version
+- `feature/conflict`: Conflict Version
+
+The login feature is in `app.py`. Run it with `python app.py`.
