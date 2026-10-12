@@ -1,5 +1,5 @@
 # 2420030233-ASE_LabInSem
 
-## Gitflow Lab 5 - Feature Version
+## Gitflow Lab 5 - Conflict Version
 
-This is the README change from the `feature/conflict` branch.
+This is the final feature-side README change for merge-conflict practice.
